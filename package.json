@@ -1,5 +1,5 @@
 {
-  "name": "ab-testing",
+  "name": "@truebill/ab-testing",
   "version": "3.1.2",
   "description": "A/B testing made easy.",
   "main": "index.js",
